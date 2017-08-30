@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+I am Billy. I like music and beer and books and soccer and other things too.
